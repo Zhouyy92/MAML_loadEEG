@@ -4,7 +4,7 @@ README
 Overview
 --------
 
-This repository provides the official code implementation for the paper "[Paper Title]". The code performs cross-subject EEG classification with differential entropy (DE) features, subject selection, and Model-Agnostic Meta-Learning (MAML).
+This repository provides the official code implementation for the paper "Source-Subject Optimization and Meta-Learning for Cross-Subject EEG Mental Load Recognition". The code performs cross-subject EEG classification with differential entropy (DE) features, subject selection, and Model-Agnostic Meta-Learning (MAML).
 
 The repository contains three Python scripts:
 
